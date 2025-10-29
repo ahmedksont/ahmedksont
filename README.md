@@ -29,6 +29,7 @@
 ### **Frontend & UI**
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React_TS-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Graasp SDK](https://img.shields.io/badge/Graasp_SDK-6A1B9A?style=for-the-badge&logo=react&logoColor=white)
 ![MaterialUI](https://img.shields.io/badge/MUI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
@@ -39,10 +40,13 @@
 ![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
+![Strapi](https://img.shields.io/badge/Strapi-2F2E8B?style=for-the-badge&logo=strapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### **AI & Data Science**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -54,6 +58,9 @@
 
 ### **Cloud & DevOps**
 ![Google Cloud API](https://img.shields.io/badge/Google_Cloud_API-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Google Drive](https://img.shields.io/badge/Google_Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
@@ -65,6 +72,45 @@
 ---
 
 ## 💼 Featured Projects
+
+### 🎓 Smart Timetable & Classroom Management
+<div align="center">
+
+**Advanced Academic Scheduling & Management System**
+
+</div>
+
+A comprehensive university management platform with intelligent scheduling capabilities:
+- 📅 **AI-Powered Timetable Generation**: Automatic schedule creation for students and professors
+- 🏫 **Classroom Management**: Smart room allocation and resource optimization
+- 👥 **Student Assignment**: Automated class assignment and group management
+- 📧 **Notification System**: Automated email distribution of timetables to students and faculty
+- 📊 **Excel Integration**: Bulk data import/export for administrative operations
+- 🔄 **Real-time Updates**: Live schedule modifications and conflict detection
+- 👨‍🏫 **Role-based Access**: Separate interfaces for students, professors, and administrators
+
+**Stack:** `React.js` • `Spring Boot` • `Flask` • `MongoDB` • `Firebase` • `Excel API` • `Email Service`
+
+---
+
+### 🎉 DevFest Sousse 2023
+<div align="center">
+
+**Official Conference Website & Check-in System**
+
+</div>
+
+A comprehensive event management platform for Google Developer Groups:
+- 🌐 **Website**: React.js frontend with Strapi CMS for dynamic content management
+- 📱 **Mobile App**: Flutter check-in application for attendees
+- 📊 **Real-time Analytics**: Google Sheets integration for live attendance tracking
+- ☁️ **Cloud Storage**: Google Drive for document and media management
+- 🎟️ **QR Code Scanning**: Efficient attendee check-in and badge generation
+- 💾 **Database**: SQLite3 for local data persistence and offline functionality
+
+**Stack:** `React.js` • `Strapi CMS` • `SQLite3` • `Flutter` • `Google Sheets API` • `Google Drive API`
+
+---
 
 ### 🧠 Smart Exam
 <div align="center">
@@ -173,12 +219,14 @@ A system for pool company operations — managing clients, maintenance, and prod
 
 ## 🤝 Let's Collaborate
 
-I’m open to collaborations involving:
+I'm excited to work on projects involving:
 - 🧠 **Artificial Intelligence & Machine Learning**
-- 🎓 **Educational & Smart Learning Platforms**
+- 🎓 **Educational Technology & Academic Systems**
+- 🎪 **Event Management & Conference Systems**
 - 🏖️ **Tourism, Business & Service Web Apps**
 - 💚 **Mental Health Technology**
 - 📊 **Data-Driven & Cloud-Integrated Systems**
+- 🏫 **Institutional Management Platforms**
 
 ---
 
