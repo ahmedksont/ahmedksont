@@ -40,8 +40,8 @@
 | 🏅 Competition | 🥈 Rank | 📅 Year | 🧩 Description |
 |:---------------|:--------:|:--------:|:----------------|
 | **IEEExtreme 19.0** | 2nd 🇹🇳 | 2025 | Solved advanced algorithmic problems under 24h pressure |
-| **Code of Duty** | 2nd | 2024 | Competitive coding challenge, focused on data structures & algorithms |
-| **AI Wave Hackathon 2.0** | Finalist | 2024 | Built ML-based mental health monitoring platform |
+| **AI Wave Hackathon 2.0** | Finalist | 2025 | Built ML-based mental health monitoring platform |
+| **Coding Olympics 2024** | 2nd | 2024 | Competitive coding challenge, focused on data structures & algorithms |
 | **GDG Sousse** | Organizer | Present | Leading workshops, hackathons, and tech initiatives |
 
 </div>
