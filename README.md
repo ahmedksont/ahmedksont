@@ -15,8 +15,8 @@
 
 🔭 **Currently Building:** **Smart Exam** — an AI-powered exam generation platform integrated with **Graasp**  
 🧠 **Exploring:** AI applications in mental health and emotional well-being  
-🎯 **Focus:** Modular backends, intuitive frontends, and scalable architectures  
-🌍 **Based in:** Tunisia, collaborating on global open-source projects
+🎯 **Focus:** Scalable full-stack systems, AI integration, and seamless UX design  
+🌍 **Based in:** Tunisia 🇹🇳 | Open to global collaboration and innovation  
 
 </div>
 
@@ -27,27 +27,38 @@
 <div align="center">
 
 ### **Frontend & UI**
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React_TS-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![MaterialUI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
+![Graasp SDK](https://img.shields.io/badge/Graasp_SDK-6A1B9A?style=for-the-badge&logo=react&logoColor=white)
+![MaterialUI](https://img.shields.io/badge/MUI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### **Backend & Databases**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ### **AI & Data Science**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LLaMA](https://img.shields.io/badge/LLaMA-FF6B35?style=for-the-badge&logo=meta&logoColor=white)
+![Whisper](https://img.shields.io/badge/Whisper_AI-0066FF?style=for-the-badge&logo=openai&logoColor=white)
+![GROQ](https://img.shields.io/badge/GROQ-FF3366?style=for-the-badge&logo=groq&logoColor=white)
 
-### **Tools & DevOps**
+### **Cloud & DevOps**
+![Google Cloud API](https://img.shields.io/badge/Google_Cloud_API-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
+![StarUML](https://img.shields.io/badge/StarUML-222222?style=for-the-badge&logo=uml&logoColor=white)
 
 </div>
 
@@ -57,36 +68,81 @@
 
 ### 🧠 Smart Exam
 <div align="center">
-  
+
 **AI-Powered Exam Generation Platform**
 
 </div>
 
-An intelligent exam generation tool integrated with **Graasp** that enables educators to:
-- 📄 Upload documents or input text for content analysis
-- ⚙️ Customize exam parameters (difficulty, duration, topics)
-- 🤖 Automatically generate theory and practical questions
-- 👁️ Preview and refine exams before export
-- 📤 Seamless export and management capabilities
+A full-stack platform integrated with **Graasp**, automating exam creation through **AI**:
+- 📄 Upload documents or enter text for context  
+- ⚙️ Customize difficulty, duration, and exam type  
+- 🤖 Auto-generate theory & practical questions  
+- 🌐 Multilingual (Arabic, English, French, German, Spanish)  
+- 📊 Integrated analytics & prompt analysis  
 
-**Tech Stack:** `React TypeScript` `Fastify` `Flask` `PostgreSQL` `OpenAI API` `Graasp API`
+**Stack:** `React TypeScript` • `Fastify` • `Flask` • `PostgreSQL` • `OpenAI API` • `Graasp SDK` • `Docker`
 
 ---
 
 ### 💚 AI Mental Health Assistant
 <div align="center">
-  
+
 **Predictive Mental Health Analytics System**
 
 </div>
 
-A machine learning platform that analyzes workplace mental health risks using:
-- 📊 Survey data processing and feature engineering
-- 🎯 Multiple classification models (Logistic Regression, Random Forest, KNN, Decision Tree)
-- 📈 Predictive analytics for early risk detection
-- 🎨 Interactive dashboards for insights visualization
+A machine learning project for mental health awareness and prediction:
+- 🧩 Models: Logistic Regression, Random Forest, Decision Tree, KNN  
+- 📊 Dataset analysis from Kaggle surveys  
+- 📈 Data visualization with Matplotlib and Pandas  
 
-**Tech Stack:** `Python` `scikit-learn` `Flask` `Pandas` `Matplotlib`
+**Stack:** `Python` • `Flask` • `scikit-learn` • `Pandas` • `Matplotlib`
+
+---
+
+### 🏖️ Hammamet Adventure
+<div align="center">
+
+**Tourism Experience Management Platform**
+
+</div>
+
+A digital tourism platform for Hammamet, Tunisia — offering booking, exploration, and payment features.  
+- 🏝️ Users can explore adventures, book activities, and pay securely  
+- 💳 Integrated **Konnect payment gateway**  
+- 🧭 Built with a modern hybrid stack for performance & reliability  
+
+**Stack:** `Next.js` • `Supabase` • `Spring Boot` • `Konnect Payment` • `Google Cloud API`
+
+---
+
+### 🍽️ Restaurant Management System
+<div align="center">
+
+**Smart Restaurant Reservation & Order System**
+
+</div>
+
+A platform allowing users to browse menus, reserve tables, and manage orders efficiently.  
+- 🧾 Includes table management, real-time availability, and digital menus  
+- 📱 Mobile-friendly and optimized for business owners  
+
+**Stack:** `React TypeScript` • `Symfony` • `MongoDB` • `Docker`
+
+---
+
+### 🏊 Pool Company Management System
+<div align="center">
+
+**Water Treatment & Pool Services Platform**
+
+</div>
+
+A system for pool company operations — managing clients, maintenance, and product inventory.  
+- 🔧 Includes scheduling, tracking, and client management modules  
+- 📊 Admin dashboard for service insights  
+
+**Stack:** `React TypeScript` • `Fastify` • `PostgreSQL` • `Docker`
 
 ---
 
@@ -96,7 +152,8 @@ A machine learning platform that analyzes workplace mental health risks using:
 
 ![Advanced AI](https://img.shields.io/badge/Advanced_AI_Integration-FF6B6B?style=for-the-badge)
 ![Real-time Comms](https://img.shields.io/badge/Real--time_Communication-Agora_RTC-8CE596?style=for-the-badge)
-![Cloud DevOps](https://img.shields.io/badge/Cloud_&_CI/CD-AWS/GCP-4ECDC4?style=for-the-badge)
+![Cloud DevOps](https://img.shields.io/badge/Cloud_&_CI/CD-Google_Cloud-4ECDC4?style=for-the-badge)
+![Microservices](https://img.shields.io/badge/Microservices-Architecture-FFD93D?style=for-the-badge)
 
 </div>
 
@@ -107,9 +164,7 @@ A machine learning platform that analyzes workplace mental health risks using:
 <div align="center">
 
 ![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedksont&show_icons=true&theme=radical&hide_border=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedksont&layout=compact&theme=radical&hide_border=true)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmedksont&theme=radical&hide_border=true)
 
 </div>
@@ -118,12 +173,12 @@ A machine learning platform that analyzes workplace mental health risks using:
 
 ## 🤝 Let's Collaborate
 
-I'm excited to work on projects involving:
+I’m open to collaborations involving:
 - 🧠 **Artificial Intelligence & Machine Learning**
-- 🎓 **EdTech & Educational Platforms**
+- 🎓 **Educational & Smart Learning Platforms**
+- 🏖️ **Tourism, Business & Service Web Apps**
 - 💚 **Mental Health Technology**
-- 📊 **Data-Driven Solutions**
-- 🌍 **Social Impact Initiatives**
+- 📊 **Data-Driven & Cloud-Integrated Systems**
 
 ---
 
@@ -144,7 +199,7 @@ I'm excited to work on projects involving:
 
 <div align="center">
 
-> I believe **AI should empower, not replace, human creativity** — that's why every project I build aims to **enhance human learning, understanding, and decision-making**.
+> I believe **AI should empower, not replace, human creativity** — every project I build aims to **enhance learning, understanding, and decision-making** through technology.
 
 </div>
 
@@ -152,7 +207,7 @@ I'm excited to work on projects involving:
 
 <div align="center">
 
-### **⭐ "Code smart, think human." ⭐**
+### ⭐ **"Code smart, think human."** ⭐
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
