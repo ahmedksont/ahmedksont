@@ -2,7 +2,8 @@
 
 <div align="center">
 
-🎓 **Software Engineer | AI Developer | Full-Stack Innovator**  
+🎓 **CyberSecurity Enthusiast | AI Developer | Full-Stack Innovator | GDG Sousse Organizer**  
+🏆 **Competition Winner | Problem Solver | Tech Innovator**  
 💡 Passionate about crafting intelligent, secure, and user-friendly applications that blend **AI**, **data analysis**, and **modern web technologies**.
 
 </div>
@@ -17,6 +18,49 @@
 🧠 **Exploring:** AI applications in mental health and emotional well-being  
 🎯 **Focus:** Scalable full-stack systems, AI integration, and seamless UX design  
 🌍 **Based in:** Tunisia 🇹🇳 | Open to global collaboration and innovation  
+👥 **Community:** Core Organizer at **GDG Sousse** - fostering tech community growth
+
+</div>
+
+---
+
+## 🏆 Competitions & Achievements
+
+<div align="center">
+
+### 🥈 **2nd Place** - IEEExtreme 19.0 Programming Competition
+**Global 24-Hour Competitive Programming**  
+*IEEE • 2024*
+- Ranked **2nd nationally** in Tunisia in prestigious 24-hour programming marathon
+- Solved complex algorithmic challenges under extreme time pressure
+- Demonstrated excellence in problem-solving and computational thinking
+
+### 🥈 **2nd Place** - Code of Duty Competition
+**Advanced Problem Solving Challenge**  
+*2024*
+- Secured second place in competitive coding competition
+- Excelled in data structures and algorithm implementation
+- Showcased strong analytical and programming skills
+
+### 🥈 **2nd Place** - AI Wave Hackathon 2nd Edition
+**Mental Health AI Solutions**  
+*2024*
+- Developed innovative AI-powered mental health monitoring platform
+- Integrated machine learning for emotional well-being assessment
+- Recognized for practical implementation and social impact
+
+### 🎪 **Community Leadership** - GDG Sousse
+**Google Developer Group Organizer**  
+*2023-Present*
+- Organizing tech events, workshops, and hackathons
+- Mentoring aspiring developers and students
+- Building Tunisia's tech community ecosystem
+
+### 💻 **Competitive Programmer**
+**Regular Participant in Coding Challenges**
+- Active on platforms like LeetCode, Codeforces, and HackerRank
+- Strong foundation in algorithms and data structures
+- Continuous skill development through competitive programming
 
 </div>
 
@@ -93,10 +137,10 @@ A comprehensive university management platform with intelligent scheduling capab
 
 ---
 
-### 🎉 DevFest Sousse 2023
+### 🎉 DevFest Sousse 2025
 <div align="center">
 
-**Official Conference Website & Check-in System**
+**Official Website & Check-in System**
 
 </div>
 
@@ -146,7 +190,7 @@ A machine learning project for mental health awareness and prediction:
 
 ---
 
-### 🏖️ Hammamet Adventure
+### 🏖️ Hammamet Adventures
 <div align="center">
 
 **Tourism Experience Management Platform**
@@ -162,44 +206,14 @@ A digital tourism platform for Hammamet, Tunisia — offering booking, explorati
 
 ---
 
-### 🍽️ Restaurant Management System
-<div align="center">
-
-**Smart Restaurant Reservation & Order System**
-
-</div>
-
-A platform allowing users to browse menus, reserve tables, and manage orders efficiently.  
-- 🧾 Includes table management, real-time availability, and digital menus  
-- 📱 Mobile-friendly and optimized for business owners  
-
-**Stack:** `React TypeScript` • `Symfony` • `MongoDB` • `Docker`
-
----
-
-### 🏊 Pool Company Management System
-<div align="center">
-
-**Water Treatment & Pool Services Platform**
-
-</div>
-
-A system for pool company operations — managing clients, maintenance, and product inventory.  
-- 🔧 Includes scheduling, tracking, and client management modules  
-- 📊 Admin dashboard for service insights  
-
-**Stack:** `React TypeScript` • `Fastify` • `PostgreSQL` • `Docker`
-
----
-
 ## 🌱 Currently Learning
 
 <div align="center">
 
-![Advanced AI](https://img.shields.io/badge/Advanced_AI_Integration-FF6B6B?style=for-the-badge)
-![Real-time Comms](https://img.shields.io/badge/Real--time_Communication-Agora_RTC-8CE596?style=for-the-badge)
-![Cloud DevOps](https://img.shields.io/badge/Cloud_&_CI/CD-Google_Cloud-4ECDC4?style=for-the-badge)
-![Microservices](https://img.shields.io/badge/Microservices-Architecture-FFD93D?style=for-the-badge)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-FF6B6B?style=for-the-badge)
+![Advanced AI](https://img.shields.io/badge/Advanced_AI_Integration-4ECDC4?style=for-the-badge)
+![Cloud Architecture](https://img.shields.io/badge/Cloud_Architecture-4285F4?style=for-the-badge)
+![Competitive Programming](https://img.shields.io/badge/Competitive_Programming-FFD93D?style=for-the-badge)
 
 </div>
 
@@ -221,12 +235,11 @@ A system for pool company operations — managing clients, maintenance, and prod
 
 I'm excited to work on projects involving:
 - 🧠 **Artificial Intelligence & Machine Learning**
+- 🛡️ **Cybersecurity Solutions**
 - 🎓 **Educational Technology & Academic Systems**
-- 🎪 **Event Management & Conference Systems**
-- 🏖️ **Tourism, Business & Service Web Apps**
-- 💚 **Mental Health Technology**
-- 📊 **Data-Driven & Cloud-Integrated Systems**
-- 🏫 **Institutional Management Platforms**
+- 🎪 **Event Management & Community Building**
+- 💚 **Mental Health Technology & Well-being**
+- 💻 **Competitive Programming & Algorithm Development**
 
 ---
 
@@ -234,8 +247,8 @@ I'm excited to work on projects involving:
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-ahmedksontini@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedksontini@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmedksontini)
+[![Email](https://img.shields.io/badge/Email-ksontiniahmed369@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedksontini@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-ksontini-b38414254?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmedksont)
 [![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ahmedksontini.dev)
 
@@ -247,7 +260,7 @@ I'm excited to work on projects involving:
 
 <div align="center">
 
-> I believe **AI should empower, not replace, human creativity** — every project I build aims to **enhance learning, understanding, and decision-making** through technology.
+> I believe **AI should empower, not replace, human creativity** — every project I build aims to **enhance learning, understanding, and decision-making** through technology. When I'm not coding, you'll find me solving competitive programming challenges or organizing community tech events!
 
 </div>
 
