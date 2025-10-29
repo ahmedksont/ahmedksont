@@ -129,6 +129,15 @@ Predicts mental health patterns based on workplace surveys.
 
 ---
 
+### 🗓️ SchoolPlanner  
+**AI-Powered Timetable & School Management Platform**  
+🎓 Manage **students & professors** efficiently → 🕒 Auto-generate timetables → 📤 Send schedules directly to users  
+
+**Tech:** React • Flask • Spring Boot • Firebase • Google Auth  
+**Features:** AI timetable generation, multi-role access (students/professors), notifications, real-time updates  
+
+---
+
 ## 🌱 Currently Learning  
 
 <div align="center">
